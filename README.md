@@ -1,0 +1,1 @@
+WooCommerce utilizes each user's email address to generate a download link for downloadable products. However, if you wish to register users on your website, where you sell downloadable products, solely using their contact numbers, you can employ the following code snippet to generate a fictitious email for each user without actually receiving an email from them.
